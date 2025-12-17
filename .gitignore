@@ -1,0 +1,18 @@
+# Vivado generated files
+*.jou
+*.log
+*.rpt
+*.pb
+*.wdf
+*.wpc
+*.db
+*.dcp
+*.vds
+*.backup.jou
+
+**/.runs/
+**/.sim/
+**/.cache/
+**/.hw/
+**/.ip_user_files/
+**/.Xil/

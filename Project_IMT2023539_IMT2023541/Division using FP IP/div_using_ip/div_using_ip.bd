@@ -1,0 +1,24 @@
+{
+  "design": {
+    "design_info": {
+      "boundary_crc": "0x0",
+      "device": "xc7a35tcpg236-1",
+      "gen_directory": "../../../../div_using_fp_ip.gen/sources_1/bd/div_using_ip",
+      "name": "div_using_ip",
+      "rev_ctrl_bd_flag": "RevCtrlBdOff",
+      "synth_flow_mode": "Hierarchical",
+      "tool_version": "2022.2"
+    },
+    "design_tree": {
+      "floating_point_0": ""
+    },
+    "components": {
+      "floating_point_0": {
+        "vlnv": "xilinx.com:ip:floating_point:7.1",
+        "xci_name": "div_using_ip_floating_point_0_0",
+        "xci_path": "ip\\div_using_ip_floating_point_0_0\\div_using_ip_floating_point_0_0.xci",
+        "inst_hier_path": "floating_point_0"
+      }
+    }
+  }
+}
